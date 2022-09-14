@@ -1,2 +1,1 @@
-# Sistemi-na-znaenje
-Basic Machine-learning algorithms
+# Basic ML algorithms
